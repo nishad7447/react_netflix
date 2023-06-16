@@ -2,6 +2,7 @@ React Netflix
 
 React Netflix is a web application built using React framework. It aims to replicate the user interface and functionality of the popular streaming platform, Netflix. This project provides a platform to explore and learn React concepts by implementing key features of Netflix.
 Deployed on Vercel link=> https://react-netflix-pi.vercel.app/
+
 Features
 
     User authentication and login functionality
